@@ -34,8 +34,7 @@ module.exports = {
 
 ## App Info
 ### Author
-Zohaib Khan [Website](http://zohaib.in)
-
+Yasin Quraishy
 ### Mentor
 [Brad Traversy](https://github.com/bradtraversy)
 
